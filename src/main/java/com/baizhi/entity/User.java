@@ -6,6 +6,8 @@ package com.baizhi.entity;
 *
 * 
 *9月25日 我又修改了一下
+* 那我反手就也修改了idea中的代码
+* 就问你气不气 气不气
 */
 public class User {
     private String id;
