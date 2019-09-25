@@ -4,7 +4,8 @@ package com.baizhi.entity;
 *ye
 *测试一下下
 *
-* 真的只是测试一下下
+* 
+*9月25日 我又修改了一下
 */
 public class User {
     private String id;
